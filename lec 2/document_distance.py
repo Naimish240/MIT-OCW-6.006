@@ -1,9 +1,7 @@
 # --- Program to calculate the distance between two documents ---
 
-# MIT-OCW Lecture 2
-
 # Import statements
-from math import acos,sqrt
+from math import acos,sqrt,sin
 from re import split
 
 # Opening the documents
@@ -76,3 +74,24 @@ cosx = dot/(dict_1_cap*dict_2_cap)
 x = acos(cosx)
 
 print("Angle between the vectors is ", x, "radians")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+        
